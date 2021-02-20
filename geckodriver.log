@@ -1,0 +1,29 @@
+1613802073491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/2__36hwd5w18jv0hcbqjrrsh0000gn/T/rust_mozprofilepHjPoU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613802077218	Marionette	INFO	Listening on port 63504
+1613802077284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613802077295	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1613802320406	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/2__36hwd5w18jv0hcbqjrrsh0000gn/T/rust_mozprofile2gIG5d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613802323531	Marionette	INFO	Listening on port 63748
+1613802323572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613802323592	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613802325030	Marionette	INFO	Stopped listening on port 63504
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613802347017	Marionette	INFO	Stopped listening on port 63748
+1613802350478	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/2__36hwd5w18jv0hcbqjrrsh0000gn/T/rust_mozprofilemXQolB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613802353674	Marionette	INFO	Listening on port 63857
+1613802353718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613802353731	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613802873454	Marionette	INFO	Stopped listening on port 63857
